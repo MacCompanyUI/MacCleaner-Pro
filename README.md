@@ -1,4 +1,4 @@
-```markdown
+
 # MacCleaner Pro
 
 > A lightweight system utility designed to safely remove cache, logs, and temporary files on macOS. This project is currently in closed beta testing to refine performance and ensure full compatibility with macOS Sonoma and Sequoia.
@@ -90,4 +90,4 @@ This project is distributed under the MIT License. See the `LICENSE` file in the
 ---
 
 *MacCleaner Pro is an independent open-source project and is not affiliated with, endorsed by, or connected to Apple Inc. macOS and the Apple logo are trademarks of Apple Inc., registered in the United States and other countries.*
-```
+
